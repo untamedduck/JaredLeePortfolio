@@ -19,9 +19,9 @@ const Home = () => {
             pursuing a Bachelor's degree in Computer Science. I love all kinds
             of programming and have been working hard to become a well-rounded
             programmer. I am proficient in Java, JavaScript, C++, React.JS,
-            TailWindCSS and Node.js. I also have limited experience
-            with C, Scheme, PROLOG, MATLAB and more. Some of my other hobbies
-            are Disc Golf, Mountain Biking, video games, and hiking.
+            TailWindCSS and Node.js. I also have limited experience with C,
+            Scheme, PROLOG, MATLAB and more. Some of my other hobbies are Disc
+            Golf, Mountain Biking, video games, and hiking.
           </p>
 
           <div className="flex justify-center lg:justify-start">
