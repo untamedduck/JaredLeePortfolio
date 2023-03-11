@@ -10,7 +10,7 @@ const Home = () => {
       className="h-screen w-full bg-gradient-to-b from-black via-black to-gray-800"
     >
       <div className="max-w-screen-lg mx-auto flex flex-col py-0 items-center justify-center h-full lg:h-full px-4 md:flex-row">
-        <div className="flex flex-col justify-center h-full max-h-96">
+        <div className="flex flex-col justify-center h-full max-h-96 mt-60 lg:mt-0">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
             I'm a Software Developer
           </h2>
@@ -39,7 +39,7 @@ const Home = () => {
           </div>
         </div>
 
-        <div className="py-4 lg:py-0">
+        <div className="py-4 lg:py-0 mt-6 lg:mt-0">
           <img
             src={HeroImage}
             alt="my profile"
