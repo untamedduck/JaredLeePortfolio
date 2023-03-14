@@ -65,7 +65,7 @@ const SocialLinks = () => {
               href={href}
               className="flex justify-between items-center w-full text-white"
               download={download}
-              terget="_blank"
+              target="_blank"
               rel="noreferrer"
             >
               {child}
