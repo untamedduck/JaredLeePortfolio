@@ -27,6 +27,7 @@ const Home = () => {
           <div className="flex justify-center lg:justify-start">
             <Link
               to="portfolio"
+              offset={-50}
               smooth
               duration={500}
               className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-purple-600 to-[#5525c6] cursor-pointer justify-center"
